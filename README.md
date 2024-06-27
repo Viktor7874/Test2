@@ -1,1 +1,7 @@
-# Test2
+Farbpalette
+
+
+Rot
+Grün
+Blau
+Sind alles tolle Farben
